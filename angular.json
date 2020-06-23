@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "guard"
+    }
+  },
+  "defaultProject": "guard",
+  "cli": {
+    "analytics": "c94e4022-68c9-462b-866a-297c5f388de7"
+  }
 }
